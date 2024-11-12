@@ -9,7 +9,7 @@
 //
 // Generator:     nunavut-1.8.0 (serialization was enabled)
 // Source file:   /home/nex/PX4-Autopilot/src/drivers/cyphal/legacy_data_types/legacy/protocol/debug/KeyValue.1.0.uavcan
-// Generated at:  2024-11-12 20:12:20.845304 UTC
+// Generated at:  2024-11-12 20:17:27.243794 UTC
 // Is deprecated: no
 // Fixed port-ID: None
 // Full name:     legacy.protocol.debug.KeyValue

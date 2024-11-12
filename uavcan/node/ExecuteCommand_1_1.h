@@ -8,9 +8,9 @@
 // are named with an underscore at the end, like foo_bar_().
 //
 // Generator:     nunavut-1.8.0 (serialization was enabled)
-// Source file:   /home/nex/PX4-Autopilot/src/drivers/cyphal/public_regulated_data_types/uavcan/node/435.ExecuteCommand.1.1.uavcan
-// Generated at:  2024-11-12 20:12:22.925252 UTC
-// Is deprecated: no
+// Source file:   /home/nex/PX4-Autopilot/src/drivers/cyphal/public_regulated_data_types/uavcan/node/435.ExecuteCommand.1.1.dsdl
+// Generated at:  2024-11-12 20:17:29.294546 UTC
+// Is deprecated: yes
 // Fixed port-ID: 435
 // Full name:     uavcan.node.ExecuteCommand
 // Version:       1.1
@@ -32,6 +32,15 @@
 //     enable_override_variable_array_capacity:  False
 //     cast_format:  (({type}) {value})
 
+//           _____  ______ _____  _____  ______ _____       _______ ______ _____
+//          |  __ `|  ____|  __ `|  __ `|  ____/ ____|   /`|__   __|  ____|  __ `
+//          | |  | | |__  | |__) | |__) | |__ | |       /  `  | |  | |__  | |  | |
+//          | |  | |  __| |  ___/|  _  /|  __|| |      / /` ` | |  |  __| | |  | |
+//          | |__| | |____| |    | | ` `| |___| |____ / ____ `| |  | |____| |__| |
+//          |_____/|______|_|    |_|  `_`______`_____/_/    `_`_|  |______|_____/
+//
+// WARNING: this data type is deprecated and is nearing the end of its life cycle. Seek replacement.
+
 #ifndef UAVCAN_NODE_EXECUTE_COMMAND_1_1_INCLUDED_
 #define UAVCAN_NODE_EXECUTE_COMMAND_1_1_INCLUDED_
 
@@ -40,19 +49,19 @@
 #include <stdlib.h>
 
 static_assert( NUNAVUT_SUPPORT_LANGUAGE_OPTION_TARGET_ENDIANNESS == 1693710260,
-              "/home/nex/PX4-Autopilot/src/drivers/cyphal/public_regulated_data_types/uavcan/node/435.ExecuteCommand.1.1.uavcan is trying to use a serialization library that was compiled with "
+              "/home/nex/PX4-Autopilot/src/drivers/cyphal/public_regulated_data_types/uavcan/node/435.ExecuteCommand.1.1.dsdl is trying to use a serialization library that was compiled with "
               "different language options. This is dangerous and therefore not allowed." );
 static_assert( NUNAVUT_SUPPORT_LANGUAGE_OPTION_OMIT_FLOAT_SERIALIZATION_SUPPORT == 0,
-              "/home/nex/PX4-Autopilot/src/drivers/cyphal/public_regulated_data_types/uavcan/node/435.ExecuteCommand.1.1.uavcan is trying to use a serialization library that was compiled with "
+              "/home/nex/PX4-Autopilot/src/drivers/cyphal/public_regulated_data_types/uavcan/node/435.ExecuteCommand.1.1.dsdl is trying to use a serialization library that was compiled with "
               "different language options. This is dangerous and therefore not allowed." );
 static_assert( NUNAVUT_SUPPORT_LANGUAGE_OPTION_ENABLE_SERIALIZATION_ASSERTS == 0,
-              "/home/nex/PX4-Autopilot/src/drivers/cyphal/public_regulated_data_types/uavcan/node/435.ExecuteCommand.1.1.uavcan is trying to use a serialization library that was compiled with "
+              "/home/nex/PX4-Autopilot/src/drivers/cyphal/public_regulated_data_types/uavcan/node/435.ExecuteCommand.1.1.dsdl is trying to use a serialization library that was compiled with "
               "different language options. This is dangerous and therefore not allowed." );
 static_assert( NUNAVUT_SUPPORT_LANGUAGE_OPTION_ENABLE_OVERRIDE_VARIABLE_ARRAY_CAPACITY == 0,
-              "/home/nex/PX4-Autopilot/src/drivers/cyphal/public_regulated_data_types/uavcan/node/435.ExecuteCommand.1.1.uavcan is trying to use a serialization library that was compiled with "
+              "/home/nex/PX4-Autopilot/src/drivers/cyphal/public_regulated_data_types/uavcan/node/435.ExecuteCommand.1.1.dsdl is trying to use a serialization library that was compiled with "
               "different language options. This is dangerous and therefore not allowed." );
 static_assert( NUNAVUT_SUPPORT_LANGUAGE_OPTION_CAST_FORMAT == 2368206204,
-              "/home/nex/PX4-Autopilot/src/drivers/cyphal/public_regulated_data_types/uavcan/node/435.ExecuteCommand.1.1.uavcan is trying to use a serialization library that was compiled with "
+              "/home/nex/PX4-Autopilot/src/drivers/cyphal/public_regulated_data_types/uavcan/node/435.ExecuteCommand.1.1.dsdl is trying to use a serialization library that was compiled with "
               "different language options. This is dangerous and therefore not allowed." );
 
 #ifdef __cplusplus

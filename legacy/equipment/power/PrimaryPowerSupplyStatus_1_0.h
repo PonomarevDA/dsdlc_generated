@@ -9,7 +9,7 @@
 //
 // Generator:     nunavut-1.8.0 (serialization was enabled)
 // Source file:   /home/nex/PX4-Autopilot/src/drivers/cyphal/legacy_data_types/legacy/equipment/power/PrimaryPowerSupplyStatus.1.0.uavcan
-// Generated at:  2024-11-12 20:12:20.905838 UTC
+// Generated at:  2024-11-12 20:17:27.309816 UTC
 // Is deprecated: no
 // Fixed port-ID: None
 // Full name:     legacy.equipment.power.PrimaryPowerSupplyStatus

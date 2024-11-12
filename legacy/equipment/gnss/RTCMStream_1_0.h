@@ -9,7 +9,7 @@
 //
 // Generator:     nunavut-1.8.0 (serialization was enabled)
 // Source file:   /home/nex/PX4-Autopilot/src/drivers/cyphal/legacy_data_types/legacy/equipment/gnss/RTCMStream.1.0.uavcan
-// Generated at:  2024-11-12 20:12:20.918963 UTC
+// Generated at:  2024-11-12 20:17:27.373812 UTC
 // Is deprecated: no
 // Fixed port-ID: None
 // Full name:     legacy.equipment.gnss.RTCMStream
